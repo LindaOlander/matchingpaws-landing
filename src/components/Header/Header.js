@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div className="header">
             <SplitText copy="Stay tuned!" role="heading" />
-            <h2>Här lanseras snart Sveriges största hundmatchingsportal</h2>
+            <h2>Här lanseras snart Sveriges mest träffsäkra hundmatchingsportal</h2>
         </div>
     )
 };
